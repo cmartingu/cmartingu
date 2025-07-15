@@ -1,12 +1,29 @@
-## 👋 ¡Hola! Soy Carlos
+## 👋 Hey there, I'm Carlos
 
-💻 Desarrollador C | C++ | Backend | Servidores HTTP  
-🚀 Apasionado por la programación eficiente y el diseño de sistemas robustos  
-⚡ Experiencia en C++, servidores HTTP y Docker  
+[![Languages](https://img.shields.io/badge/C/C++-blue.svg?logo=c)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Backend](https://img.shields.io/badge/Backend-Developer-green.svg)](https://developer.mozilla.org/en-US/docs/Learn/Server-side)
+[![Docker](https://img.shields.io/badge/Docker-Enabled-blue?logo=docker)](https://www.docker.com/)
+[![MariaDB](https://img.shields.io/badge/MariaDB-Backend-orange?logo=mariadb)](https://mariadb.org/)
 
-🔧 Tecnologías que uso:  
-- C, C++, Python, Bash  
-- Docker, Nginx, MariaDB  
-- Desarrollo de servidores HTTP
+🧠 **Backend Developer & Systems Programmer**  
+I thrive on building **fast**, **reliable**, and **low-level** software — from scratch.
 
-📌 Siempre aprendiendo y optimizando código. ¡Conectemos!
+---
+
+🚀 **Specialized in:**
+
+- ⚙️ **C/C++** — Deep systems-level programming  
+- 🌐 **HTTP server development** — Custom, high-performance servers  
+- 🐳 **Docker, Nginx & MariaDB** — Solid backend infrastructure
+
+---
+
+🛠️ **Tech Toolbox:**
+
+C, C++, Python, Bash
+Docker, Nginx, MariaDB
+
+---
+
+💡 Constantly learning, always optimizing.  
+Let’s connect and build something awesome!
