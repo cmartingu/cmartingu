@@ -24,12 +24,12 @@ I build **efficient scripts, automation tools, and web scrapers** to save time a
 
 | Project | Description |
 |---------|-------------|
-| [**minishel (42)**](https://github.com/carlos-m/minishel) | Minimal custom shell in C, low-level systems programming experience |
-| [**webserv (42)**](https://github.com/carlos-m/webserv) | High-performance HTTP server written from scratch in C++ |
-| [**Web-Scraping-Data-Automation**](https://github.com/carlos-m/Web-Scraping-Data-Automation) | Python scripts for automated data extraction, processing, and storage |
-| [**backup_drive**](https://github.com/carlos-m/backup_drive) | Automates backups of files and directories to google drive |
-| [**ft_transcendence (42)**](https://github.com/carlos-m/ft_transcendence) | Real-time multiplayer game backend, showcasing networking and concurrency skills |
-| [**aws_cli**](https://github.com/carlos-m/aws_cli) | Python automation tools for AWS (EC2, S3) to manage cloud resources |
+| [**minishel (42)**](https://github.com/cmartingu/minishel) | Minimal custom shell in C, low-level systems programming experience |
+| [**webserv (42)**](https://github.com/cmartingu/webserv) | High-performance HTTP server written from scratch in C++ |
+| [**Web-Scraping-Data-Automation**](https://github.com/cmartingu/Web-Scraping-Data-Automation) | Python scripts for automated data extraction, processing, and storage |
+| [**backup_drive**](https://github.com/cmartingu/backup_drive) | Automates backups of files and directories to google drive |
+| [**ft_transcendence (42)**](https://github.com/cmartingu/ft_transcendence) | Real-time multiplayer game backend, showcasing networking and concurrency skills |
+| [**aws_cli**](https://github.com/cmartingu/aws_cli) | Python automation tools for AWS (EC2, S3) to manage cloud resources |
 
 ---
 
