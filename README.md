@@ -24,7 +24,7 @@ I build **efficient scripts, automation tools, and web scrapers** to save time a
 
 | Project | Description |
 |---------|-------------|
-| [**minishel (42)**](https://github.com/cmartingu/minishel) | Minimal custom shell in C, low-level systems programming experience |
+| [**Price-Scraper-API**](https://github.com/cmartingu/Price-Scraper-API) | Amazon & aliexpress scraper API with Python & Selenium |
 | [**webserv (42)**](https://github.com/cmartingu/webserv) | High-performance HTTP server written from scratch in C++ |
 | [**Web-Scraping-Data-Automation**](https://github.com/cmartingu/Web-Scraping-Data-Automation) | Python scripts for automated data extraction, processing, and storage |
 | [**backup_drive**](https://github.com/cmartingu/backup_drive) | Automates backups of files and directories to google drive |
